@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #121212; /* Dark background color */
+    color: #e0e0e0; /* Light text color */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+    line-height: 1.6;
+}
+
+img {
+    position: relative;
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin: 10px 0;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+h5 {
+    margin: 10px 0;
+    color: #aaaaaa; /* Lighter gray color */
+    font-weight: 400;
+}
+
+li {
+    margin-bottom: 5px;
+    color: #e0e0e0;
+}
+
+.meal {
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center; /* Center align horizontally */
+}
+
+.meal-content {
+    flex: 1;
+    margin-left: 20px;
+    max-width: 50%; /* Ensure the description doesn't take up too much space */
+}
+
+.meal img {
+    max-width: 45%;
+    border-radius: 5px;
+}
+
+.text-center {
+    text-align: center;
+    color: #e0e0e0;
+}
+
+.video-section {
+    text-align: center;
+    margin-top: 20px;
+    width: 100%; /* Ensure it takes full width */
+}
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000; /* Optional: black background for video section */
+    margin: 0 auto; /* Centering */
+}
+
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensuring it fits the container */
+    height: 100%;
+    border-radius: 10px; /* Optional: rounded corners for video */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+
+/* Improved typography for readability and modern look */
+h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    color: #cccccc;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Button styles */
+.mainBtn {
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.mainBtn:hover {
+    background: #0056b3;
+}
+
+/* Textarea styles */
+textarea {
+    width: 100%;
+    max-width: 600px;
+    height: 200px;
+    background: #333333;
+    border: 1px solid #555555;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1rem;
+    color: #e0e0e0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 18px;
+    outline: none;
+    resize: vertical; /* Allow vertical resize */
+}
+
+/* Footer Styling */
+#footer {
+    background: #1f1f1f;
+    color: #e0e0e0;
+    padding: 10px 0;
+    text-align: center;
+    border-top: 1px solid #444444;
+    border-radius: 10px; /* Added this line for rounded edges */
+}
+
+
+#footer .footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer p {
+    margin: 5px 0;
+}
+
+#footer .social-links a {
+    color: #888888; /* Light gray color to blend with the background */
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+#footer .social-links a:hover {
+    color: #007bff;
+}
