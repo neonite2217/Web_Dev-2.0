@@ -47,6 +47,7 @@ You can draw as many cards as you want
 8. Click on "Restart" Button to start a new game
 9. Click on "Deal" Button to clear the field
 
+ [view DEMO](https://blackjack-two-lyart.vercel.app)
 
 ## ⚙️ Languages or Frameworks Used
 
