@@ -27,10 +27,10 @@ git clone https://github.com/neonite2217/Web_Dev-2.0.git
 - Run the index.html
 - Start Playing!!!
 
-## 📺 Demo
+## 📺 [Demo](https://web-dev-2-0.vercel.app)
 <p align="center">
 <img src="image.png" width=70% height=70%>
-view live demo
+
 
 ## 🤖 Author
 [Biswaketan](https://github.com/neonite2217/)
