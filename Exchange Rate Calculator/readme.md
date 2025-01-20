@@ -34,7 +34,7 @@ Follow these steps to run the project locally:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/neonite2217/exchange-rate-calculator.git
+git clone https://github.com/neonite2217/Web_Dev-2.0.git
 
 2. Navigate to the project directory:
 
