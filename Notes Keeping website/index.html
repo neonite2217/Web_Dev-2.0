@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Notes </title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+   <nav class="navbar">
+       <div id="logo">Notes </div>
+       <form class="form-group" action="#">
+           <input type="search" name="search" id="search" placeholder="Search">
+           <button id="btn">Search</button>
+       </form>
+   </nav>
+
+   <div class="container">
+       <h1>Welcome !</h1>
+       <div class="border">
+           <label for="noteTitle">Note Title</label> <br>
+           <input type="text" id="noteTitle" placeholder="Enter note title here"> <br>
+           <label for="addNote">Add a Note</label> <br>
+           <textarea name="textarea" id="textarea" cols="80" rows="5"></textarea> <br>
+           <button id="myBtn">Add Note</button>
+       </div>
+       <hr class="hrStyle">
+       <h1>Your Notes</h1>
+       <hr class="hrStyle">
+       <div id="notes" class="notesBox"> </div>
+   </div>
+
+   <footer id="footer">
+        <div class="footer-content">
+            <p>Developed by Neonite</p>
+            <div class="social-links">
+                <a href="https://github.com/neonite2217" target="_blank"><i class="fab fa-github fa-2x"></i></a>
+                <a href="https://www.linkedin.com/in/biswaketan-58806a282/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+                <a href="mailto:opneonite@gmail.com"><i class="fas fa-envelope fa-2x"></i></a>
+            </div>
+        </div>
+    </footer>
+
+   <script src="script.js"></script>
+</body>
+</html>
