@@ -39,13 +39,7 @@ Each project in this repository comes with its own set of instructions for usage
 ## Projects
 
 
-1. **2048 Game** - A simple 2048 game in the browser
-2. **Age Calculator** - A simple way to calculate age in the browser.
-3. **Basic Contact Form** - Basic contact form to connect.
-
-
-
-
+1. 
 
 Feel free to explore each project and experiment with the code!
 
