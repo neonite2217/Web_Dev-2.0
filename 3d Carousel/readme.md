@@ -30,7 +30,7 @@ git clone https://github.com/neonite2217/Web_Dev-2.0
 2. Navigate to the project directory:
 
 ```sh
-cd 3D-Carousel
+cd 3d Carousel
 ```
 
 3. Open the `index.html` file in your web browser to experience the interactive 3D carousel.
