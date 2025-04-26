@@ -24,7 +24,7 @@ Running this project is simple. Follow these steps to get the carousel working o
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/neonite2217/3D-Carousel.git
+git clone https://github.com/neonite2217/Web_Dev-2.0
 ```
 
 2. Navigate to the project directory:
