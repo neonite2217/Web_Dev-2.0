@@ -41,7 +41,7 @@ See the 3D carousel in action!
 
 You can interact with the carousel by rotating it and viewing different images or items:
 
-[**View the 3D Carousel Output**](https://3d-carousel.vercel.app)
+[**View the 3D Carousel Output**](https://3dc-57b2sr5sk-biswaketans-projects.vercel.app/)
 
 Click the link to see the carousel in action and experience the smooth 3D animations!
 
