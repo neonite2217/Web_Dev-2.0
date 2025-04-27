@@ -20,7 +20,7 @@ Running this is easy.
 Clone the Repository
 
 ```sh
-git clone https://github.com/neonite2217/
+git clone https://github.com/neonite2217/Web_Dev-2.0.git
 ```
 
 Navigate to the file and run
