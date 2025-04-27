@@ -23,9 +23,11 @@ Clone the Repository
 git clone https://github.com/neonite2217/Web_Dev-2.0.git
 ```
 
-Navigate to the file and run
-
-- Run the index.html file
+Navigate to the file
+```sh
+cd Class-Scheduler
+```
+- Run ```sh index.html ``` file
 - Schedule your new batch.
 - Add more and more batches.
 - Search when required.
