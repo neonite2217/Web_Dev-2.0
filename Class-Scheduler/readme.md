@@ -32,7 +32,7 @@ Navigate to the file and run
 
 ## 📺 Demo
 <p align="center">
-<img src="image.png" width=70% height=70%>
+<img src="demo.png" width=70% height=70%>
 
 
 ## 🤖 Author
