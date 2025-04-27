@@ -27,7 +27,7 @@ Navigate to the file
 ```sh
 cd Class-Scheduler
 ```
-- Run ```sh index.html ``` file
+- Run ``` index.html ``` file
 - Schedule your new batch.
 - Add more and more batches.
 - Search when required.
