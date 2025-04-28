@@ -17,7 +17,6 @@ This project is built with the following technologies:
 
 - **HTML5** for the structure of the webpage
 - **CSS3** for styling and layout
-- **JavaScript** for interactive elements (such as the search bar or dynamic loading features)
 
 
 ## 📺 Demo
