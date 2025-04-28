@@ -37,7 +37,7 @@ git clone https://github.com/neonite2217/alternate-google-cloud-design.git
 2. Navigate to the project directory:
 
 ```bash
-cd alternate-google-cloud-design
+cd Demo-site/
 ```
 
 3. Open the `index.html` file in your browser to see the website in action.
