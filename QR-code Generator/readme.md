@@ -29,7 +29,8 @@ This project is built with the following technologies:
 ## 📺 Demo
 
 <p align="center">
-<img src="image.png" width=70% height=70%>
+<img src="./img.png" width=40% height=70%>
+<img src="./img.jpg" width=40% height=70%>
 
 ## 🚀 How to Run the Project Locally
 
