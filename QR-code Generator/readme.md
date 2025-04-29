@@ -45,7 +45,7 @@ git clone https://github.com/neonite2217/Web_Dev-2.0.git
 2. Navigate to the project directory:
 
 ```bash
-cd QR-code generator
+cd QR-code Generator
 ```
 
 3. Run the `index.html` file in your browser to start generating QR codes.
