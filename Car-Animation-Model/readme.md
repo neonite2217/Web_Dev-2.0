@@ -7,7 +7,7 @@
 
 ## 🛠️ Description
 
-The **Car Animation Model** is a  3D car animation created with CSS animations. It brings a dynamic and realistic simulation of smooth transitions. Perfect for educational demos.
+The **Car Animation** is a  3D car animation created with CSS animations. It brings a dynamic and realistic simulation of smooth transitions. Perfect for educational demos.
 
 ## ⚙️ Languages or Frameworks Used
 
@@ -24,16 +24,16 @@ Running this project is straightforward! Just follow these simple steps:
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/neonite2217/Car-Animation-Model.git
+git clone https://github.com/neonite2217/Web_Dev-2.0.git
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-cd Car-Animation-Model
+cd Car-Animation
 ```
 
-3. Open the `index.html` file in your browser to see the animation in action.
+3. Run the `index.html` file in your browser to see the animation in action.
 
 ## 🚗 Output
 
