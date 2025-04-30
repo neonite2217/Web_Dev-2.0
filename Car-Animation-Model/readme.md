@@ -35,13 +35,13 @@ cd Car-Animation
 
 3. Run the `index.html` file in your browser to see the animation in action.
 
-## 🚗 Output
+## 🚗 [Output](https://ca-wine-eta.vercel.app/)
 
 Experience the animated car in action! 🚙✨
 
 You can view the live version of the car animation model hosted on Vercel:
 
-[**View the Car Animation Output**](https://car-animation-model.vercel.app)
+[**View the Car Animation Output**](https://ca-wine-eta.vercel.app/)
 
 Simply click the link to interact with the 3D car animation directly in your browser!
 
