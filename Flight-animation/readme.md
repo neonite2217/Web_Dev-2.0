@@ -25,7 +25,7 @@ Running this project is easy! Just follow these simple steps:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/neonite2217/Airplane-Animation-Model.git
+git clone https://github.com/neonite2217/Web_Dev-2.0
 ```
 
 2. Navigate to the project directory:
@@ -36,13 +36,13 @@ cd Flight-animation/
 
 3. Run the `index.html` file in your preferred web browser to see the airplane animation in action.
 
-## 🚁 Output
+## 🚁 [Output](https://wdbcvp.vercel.app)
 
 Experience the animated airplane in action! ✈️
 
 You can view the live version of the airplane animation model hosted on Vercel:
 
-[**View the Airplane Animation Output**](https://airplane-animation-model.vercel.app)
+[**View the Output**](https://wdbcvp.vercel.app)
 
 Simply click the link to interact with the 3D airplane animation directly in your browser!
 
