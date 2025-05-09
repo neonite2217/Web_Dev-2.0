@@ -3,11 +3,11 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/neonite2217)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/neonite2217?tab=repositories)
 
-# Airplane Animation Model
+# Flight Animation 
 
 ## 🛠️ Description
 
-The **Airplane Animation Model** is a dynamic 3D animation of an airplane in flight, created using **GSAP** (GreenSock Animation Platform). It's perfect for integrating into interactive web applications, demos, or educational projects.
+The **Flight Animation** is a dynamic 3D animation of an airplane in flight, created using **GSAP** (GreenSock Animation Platform). It's perfect for integrating into interactive web applications, demos, or educational projects.
 
 ## ⚙️ Languages or Frameworks Used
 
@@ -31,10 +31,10 @@ git clone https://github.com/neonite2217/Airplane-Animation-Model.git
 2. Navigate to the project directory:
 
 ```sh
-cd Airplane-Animation-Model
+cd Flight-animation/
 ```
 
-3. Open the `index.html` file in your preferred web browser to see the airplane animation in action.
+3. Run the `index.html` file in your preferred web browser to see the airplane animation in action.
 
 ## 🚁 Output
 
