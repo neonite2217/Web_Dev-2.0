@@ -1,6 +1,6 @@
 console.clear();
 
-// parts to this
+// Class : description
 // Scene:           Setups and manages threejs rendering
 // loadModel:       Loads the 3d obj file
 // setupAnimation:  Creates all the GSAP animtions and scroll triggers(creates a new scene)
