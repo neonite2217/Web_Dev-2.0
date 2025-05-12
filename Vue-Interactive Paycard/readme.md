@@ -33,7 +33,7 @@ git clone https://github.com/neonite2217/vue-interactive-paycard.git
 2. Navigate to the project directory:
 
 ```sh
-cd vue-interactive-paycard
+cd Vue-Interactive Paycard
 ```
 
 3. Run the 'index.html' to run the project
