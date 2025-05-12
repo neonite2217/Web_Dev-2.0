@@ -10,7 +10,7 @@
 
 The **Vue Interactive Paycard** is an interactive credit card component created using **Vue.js**. It mimics the experience of viewing and editing credit card details, with interactive features like flipping the card, entering card numbers, expiration date, and more. This component was designed with **Vue.js** and follows modern web practices, giving developers a reusable, customizable UI component for payment form interfaces.
 
-> **Note**: The assets and resources used in this project, belong to **Muhammed Erdem** ,this is just alternative approach. You can view his original project and website [here](https://muhammed.erdem.dev/).
+> **Note**: The assets and resources used in this project, belong to **Muhammed Erdem** ,this is just an alternative approach. You can view his original project and website [here](https://muhammed.erdem.dev/).
 
 ## ⚙️ Languages or Frameworks Used
 
@@ -27,7 +27,7 @@ Running this project locally is simple. Just follow these steps:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/neonite2217/vue-interactive-paycard.git
+git clone https://github.com/neonite2217/Web_Dev-2.0.git
 ```
 
 2. Navigate to the project directory:
