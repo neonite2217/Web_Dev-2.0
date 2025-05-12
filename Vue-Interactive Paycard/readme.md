@@ -38,13 +38,13 @@ cd vue-interactive-paycard
 
 3. Run the 'index.html' to run the project
 
-## 💳 Output
+## 💳 [Output](https://ppaycard.vercel.app/)
 
 Experience the interactive Vue credit card component!
 
 You can view the live version hosted on Vercel:
 
-[**View the Vue Interactive Paycard**](https://vue-interactive-paycard.vercel.app)
+[**View the Vue Interactive Paycard**](https://ppaycard.vercel.app/)
 
 Click the link to interact with the paycard component directly in your browser!
 
