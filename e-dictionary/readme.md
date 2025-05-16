@@ -20,11 +20,11 @@ This project is built with the following technologies:
 - **JavaScript** for handling user input and API calls
 - **API** ([WordsAPI](https://www.wordsapi.com/)) to fetch word data
 
-## 🌐 Live Demo
+## 🌐 [Live Demo](https://gxax.vercel.app/)
 
 You may try the live version of the Dictionary :
 
-[**View Live Dictionary Demo**](https://your-live-link-here.com)
+[**View Live Dictionary Demo**](https://gxax.vercel.app/)
 
 ## 🚀 How to Run the Project
 
@@ -39,7 +39,7 @@ git clone https://github.com/neonite2217/dictionary-project.git
 2. Navigate to the project directory:
 
 ```bash
-cd dictionary-project
+cd e-dictionary
 ```
 
 3. Open the `index.html` file in your browser to start using the dictionary.
