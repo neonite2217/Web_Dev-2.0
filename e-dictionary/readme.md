@@ -7,8 +7,7 @@
 
 ## 🛠️ Description
 
-The **Dictionary Project** is a web-based dictionary app that allows users to search for the meanings, definitions, and examples of words in various languages. The project fetches word data from a public API, providing users with quick and accurate results.
-
+This is a web-based dictionary app that allows users to search for the meanings, definitions, and examples of words in various languages. The project fetches word data from a public API, providing users with quick and accurate results.
 This tool is ideal for educational purposes, language learning, or simply as a handy reference for day-to-day use.
 
 ## ⚙️ Technologies Used
@@ -33,7 +32,7 @@ Follow these steps to run the project locally:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/neonite2217/dictionary-project.git
+git clone https://github.com/neonite2217/Web_Dev-2.0.git
 ```
 
 2. Navigate to the project directory:
@@ -42,9 +41,9 @@ git clone https://github.com/neonite2217/dictionary-project.git
 cd e-dictionary
 ```
 
-3. Open the `index.html` file in your browser to start using the dictionary.
+3. Run the `index.html` file in your browser to start using the dictionary.
 
-For development purposes, you may want to run a local server to manage API requests more efficiently. You can use tools like **Live Server** or **http-server**.
+For development purposes, you may want to run a local server to manage API requests more efficiently.
 
 ## 💻 Example Usage
 
@@ -54,5 +53,5 @@ For development purposes, you may want to run a local server to manage API reque
 
 ## 🤖 Author
 
-This project is maintained by [Biswaketan](https://github.com/neonite2217/).
+[Biswaketan](https://github.com/neonite2217/).
 Feel free to reach out or contribute to the repository!
