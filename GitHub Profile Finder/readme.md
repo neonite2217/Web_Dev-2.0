@@ -39,13 +39,13 @@ Follow these steps to run the project on your local machine:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/neonite2217/github-profile-finder.git
+git clone https://github.com/neonite2217/Web_Dev-2.0.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd github-profile-finder
+cd GitHub Profile Finder
 ```
 
 3. Open the `index.html` file in your browser to start using the profile finder.
